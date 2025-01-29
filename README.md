@@ -30,10 +30,10 @@ Here we can find keys with:
 For any given note, list intervals in order from most consonant to most dissonant.
 
 ## **Screenshots**
-![Key from notes](images/screen_1.jpg)
-![Notes and chords for key](images/screen_2.jpg)
-![Closest keys](images/screen_3.jpg)
-![Intervals Exploration](images/screen_4.jpg)
+<img src="images/screen_1.jpg" alt="Key from notes" width="600">
+<img src="images/screen_2.jpg" alt="Notes and chords for key" width="600">
+<img src="images/screen_3.jpg" alt="Closest keys" width="600">
+<img src="images/screen_4.jpg" alt="Intervals Exploration" width="600">
 
 ## **How to Use the Source Code**
 To clone and customize the Python code of MusicHelper, follow these steps:
