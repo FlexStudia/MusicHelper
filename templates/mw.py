@@ -17,13 +17,6 @@ class Ui_Dialog(object):
         Dialog.resize(822, 823)
         self.verticalLayout_15 = QtWidgets.QVBoxLayout(Dialog)
         self.verticalLayout_15.setObjectName("verticalLayout_15")
-        self.label_2 = QtWidgets.QLabel(Dialog)
-        font = QtGui.QFont()
-        font.setFamily("Trebuchet MS")
-        font.setPointSize(20)
-        self.label_2.setFont(font)
-        self.label_2.setObjectName("label_2")
-        self.verticalLayout_15.addWidget(self.label_2, 0, QtCore.Qt.AlignHCenter)
         spacerItem = QtWidgets.QSpacerItem(20, 31, QtWidgets.QSizePolicy.Minimum, QtWidgets.QSizePolicy.Expanding)
         self.verticalLayout_15.addItem(spacerItem)
         self.tabWidget = QtWidgets.QTabWidget(Dialog)
@@ -1543,7 +1536,6 @@ class Ui_Dialog(object):
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
         Dialog.setWindowTitle(_translate("Dialog", "Dialog"))
-        self.label_2.setText(_translate("Dialog", "Key Helper "))
         self.groupBox_4.setTitle(_translate("Dialog", "Notes"))
         self.note_F.setText(_translate("Dialog", "F"))
         self.note_G.setText(_translate("Dialog", "G"))

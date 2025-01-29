@@ -14,19 +14,6 @@
    <string>Dialog</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_15">
-   <item alignment="Qt::AlignHCenter">
-    <widget class="QLabel" name="label_2">
-     <property name="font">
-      <font>
-       <family>Trebuchet MS</family>
-       <pointsize>20</pointsize>
-      </font>
-     </property>
-     <property name="text">
-      <string>Key Helper </string>
-     </property>
-    </widget>
-   </item>
    <item>
     <spacer name="verticalSpacer">
      <property name="orientation">
